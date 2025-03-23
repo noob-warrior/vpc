@@ -74,7 +74,8 @@ An Availability Zone is a distinct location within an AWS Region that is enginee
    - Leave other options as default.
 4. Click **Create VPC**.
 
-   ![1](https://github.com/user-attachments/assets/fa02b3e3-a690-4bd8-96d8-52c3e153f1d2)
+  ![vpcc](https://github.com/user-attachments/assets/680d82ea-fb5f-4f51-a838-3001b64f2d07)
+
 
 ### Step 2: Create Subnets
 
